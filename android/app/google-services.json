@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961218814196",
+    "project_id": "citizen-issue-system",
+    "storage_bucket": "citizen-issue-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961218814196:android:cc2c72b72e340aaeaefea1",
+        "android_client_info": {
+          "package_name": "com.example.citizen_issue_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIfiOBfpQvB6FEqi_ARYPFk24tou6O8dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
